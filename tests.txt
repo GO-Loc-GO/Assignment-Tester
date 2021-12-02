@@ -1,0 +1,4 @@
+commands_clock memory_clock 1
+commands_LRU memory_LRU 1
+commands_extra memory_clock_extra 1
+commands_extra memory_LRU_extra 1
