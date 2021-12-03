@@ -7,7 +7,7 @@
  
 Note: 
 
-1. When using the python test program, please set your output files' name to "the name of the configuration file" + '.test'.
+1. When using the python test program, please set your output files' name to "the name of the configuration file" + '.test' in the corresponding configuration file.
 
 2. Please ensure that these files are in the same location as your java files.
 
