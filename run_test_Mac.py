@@ -9,7 +9,7 @@ class CompareResults:
         self.marks = 0
         self.tests = {}
         self.commands = {}
-        self.compared_files = ["tracefile_clock", "tracefile_LRU"]
+        self.compared_files = ["tracefile_clock", "tracefile_LRU","tracefile_clock_extra","tracefile_LRU_extra"]
 
         # 1. read the configuration files
         with open(self.tests_file) as tf:
